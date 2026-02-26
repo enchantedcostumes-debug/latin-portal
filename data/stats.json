@@ -1,0 +1,29 @@
+{
+  "total_words": 89520,
+  "divine_words": 44898,
+  "prime_words": 12823,
+  "categories": {
+    "ontological": 74673,
+    "operational": 745,
+    "quantitative": 368,
+    "temporal": 636,
+    "affective": 606,
+    "relational": 12492
+  },
+  "patterns": {
+    "composite": 46586,
+    "pure_prime": 12823,
+    "prime_times_2": 7027,
+    "divine_13": 5952,
+    "prime_power": 674,
+    "divine_7": 12756,
+    "divine_19": 3702
+  },
+  "gematria_min": 36,
+  "gematria_max": 2019,
+  "alphabet_size": 21,
+  "language": "Latin",
+  "script": "Latin Alphabet",
+  "era": "700 BCE - present (liturgical)",
+  "family": "Italic"
+}
